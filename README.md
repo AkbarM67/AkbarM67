@@ -4,8 +4,8 @@ A passionate Mobile & IoT Developer from Indonesia 🇮🇩
 ## 🔧 Tech Stack
 - 🌐 Flutter, Dart
 - 💻 Node.js, Laravel, Express
-- 📡 IoT with LoRa, Arduino, Raspberry Pi
-- 🗃️ MySQL, Firebase, SQLite
+- 📡 IoT with LoRa, Arduino
+- 🗃️ MySQL, Firebase, SQLite, Hive
 - 🧪 REST API, Swagger, Postman
 
 ## 📊 GitHub Stats
