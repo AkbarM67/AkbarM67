@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Akbar Maulana
+A passionate Mobile & IoT Developer from Indonesia 🇮🇩
 
-<!--
-**AkbarM67/AkbarM67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+- 🌐 Flutter, Dart
+- 💻 Node.js, Laravel, Express
+- 📡 IoT with LoRa, Arduino, Raspberry Pi
+- 🗃️ MySQL, Firebase, SQLite
+- 🧪 REST API, Swagger, Postman
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkbarM67&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Blockchain for IoT
+- Flutter with Firebase
+- Advanced Testing & CI/CD
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/akbar-maulana-637443244)  
