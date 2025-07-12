@@ -12,7 +12,7 @@ A passionate Mobile & IoT Developer from Indonesia 🇮🇩
 ![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkbarM67&show_icons=true&theme=tokyonight)
 
 ## 🌱 Currently Learning
-- Blockchain for IoT
+- IoT
 - Flutter with Firebase
 - Advanced Testing & CI/CD
 
